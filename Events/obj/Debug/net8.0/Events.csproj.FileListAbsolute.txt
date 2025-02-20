@@ -1,0 +1,11 @@
+C:\Users\Doina\Downloads\RPS-Monolith\Events\bin\Debug\net8.0\Events.deps.json
+C:\Users\Doina\Downloads\RPS-Monolith\Events\bin\Debug\net8.0\Events.dll
+C:\Users\Doina\Downloads\RPS-Monolith\Events\bin\Debug\net8.0\Events.pdb
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.dll
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\refint\Events.dll
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\Events.pdb
+C:\Users\Doina\Downloads\RPS-Monolith\Events\obj\Debug\net8.0\ref\Events.dll

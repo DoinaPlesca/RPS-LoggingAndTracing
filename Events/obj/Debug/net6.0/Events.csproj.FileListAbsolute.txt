@@ -1,0 +1,12 @@
+/Users/tbmh/Desktop/RockPaperScissor/Events/bin/Debug/net6.0/Events.deps.json
+/Users/tbmh/Desktop/RockPaperScissor/Events/bin/Debug/net6.0/Events.dll
+/Users/tbmh/Desktop/RockPaperScissor/Events/bin/Debug/net6.0/Events.pdb
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.csproj.AssemblyReference.cache
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.AssemblyInfoInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.AssemblyInfo.cs
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.csproj.CoreCompileInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.dll
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/refint/Events.dll
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/Events.pdb
+/Users/tbmh/Desktop/RockPaperScissor/Events/obj/Debug/net6.0/ref/Events.dll

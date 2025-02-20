@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  monolith:
+    build: .
+    container_name: monolith
+    depends_on:
+      - seq
+      - zipkin
+    environment:
+      - DOTNET_ENVIRONMENT=Production
+      - SEQ_URL=http://seq:5341
+      - ZIPKIN_URL=http://zipkin:9411/api/v2/spans
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  seq:
+    image: datalust/seq
+    container_name: seq
+    environment:
+      - ACCEPT_EULA=Y
+    ports:
+      - "5341:80"
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  zipkin:
+    image: openzipkin/zipkin
+    container_name: zipkin
+    ports:
+      - "9411:9411"
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+networks:
+  monitoring:
+    driver: bridge
